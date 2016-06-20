@@ -24,7 +24,12 @@
   },
   "homepage": "https://github.com/interletrados/app#readme",
   "dependencies": {
+    "body-parser": "^1.15.1",
     "express": "^4.14.0",
-    "pug": "^2.0.0-beta3"
+    "jade": "^1.11.0",
+    "mongoose": "^4.5.1",
+    "morgan": "^1.7.0",
+    "pug": "^2.0.0-beta3",
+    "stylus": "^0.54.5"
   }
 }

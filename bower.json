@@ -1,0 +1,25 @@
+{
+  "name": "interletrados",
+  "description": "Acquire and improve #leanlawyering skills",
+  "main": "index.js",
+  "authors": [
+    "Carlos Marchena"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "lawyer",
+    "training",
+    "blogging",
+    "socialmedia",
+    "conversion"
+  ],
+  "homepage": "https://github.com/interletrados/app",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.7",
+    "angular-resource": "^1.5.7",
+    "angular-route": "^1.5.7"
+  }
+}
